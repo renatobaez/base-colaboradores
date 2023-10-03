@@ -5,7 +5,7 @@
 }
 section {
 	display: grid;
-	grid-template-areas: 
+	grid-template-areas:
 	"lista formulario";
 	justify-content:space-around;
 	min-width: 100vh;
@@ -31,9 +31,9 @@ th {
 	margin-top: 50px;
 }
 @media screen and (max-width: 992px) {
-	section{ 
-		grid-template-areas: 
+	section{
+		grid-template-areas:
 		"lista"
 		"formulario";
-	}	
+	}
 }
