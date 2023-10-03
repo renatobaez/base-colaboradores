@@ -1,0 +1,39 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+section {
+	display: grid;
+	grid-template-areas: 
+	"lista formulario";
+	justify-content:space-around;
+	min-width: 100vh;
+	gap: 20px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.buscador {
+	max-width: 20rem;
+	padding: 10px
+}
+.lista{
+	grid-area: lista;
+}
+th {
+	text-align: center;
+}
+.formulario {
+	grid-area: formulario;
+	margin-top: 50px;
+}
+@media screen and (max-width: 992px) {
+	section{ 
+		grid-template-areas: 
+		"lista"
+		"formulario";
+	}	
+}
