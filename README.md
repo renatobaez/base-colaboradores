@@ -1,8 +1,10 @@
-# React + Vite
+# Desafio 3  de React I
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pull Requests
 
-Currently, two official plugins are available:
+Realicé a:
+- https://github.com/javiernfigueroa/Desafio-react-3
+- https://github.com/burgosuc/Base-datos-colaboradores/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Resibí de:
+- https://github.com/javiernfigueroa/
